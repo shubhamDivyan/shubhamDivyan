@@ -52,7 +52,7 @@
 
 ### 🍽️ **Food Recipe App**
 🔗 **Live:** https://recipe-app-mu-woad.vercel.app/  
-💻 **GitHub:** https://github.com/shubhamDivyan/snake-Game  
+💻 **GitHub:** https://github.com/shubhamDivyan/Recipe-app-  
 
 ---
 
