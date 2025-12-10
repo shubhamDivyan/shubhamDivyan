@@ -81,8 +81,8 @@
 ## 📬 Let's Connect
 
 - **LinkedIn:** https://www.linkedin.com/in/shubham-divyanshu-a5a3a2258  
-- **Portfolio:** https://your-portfolio-link.com *(replace later)*  
-- **GitHub:** https://your-github-link.com *(replace later)*  
+- **Portfolio:** https://portfolio-green-rho-74.vercel.app/   
+- **GitHub:** https://github.com/shubhamDivyan  
 
 ---
 
