@@ -56,10 +56,9 @@
 
 ---
 
-### 🍽️ **Fitness Buddy App**
-🔗 **Live:** https://resonant-melomakarona-ed90b4.netlify.app/
-💻 **GitHub:** https://github.com/shubhamDivyan/FitnessBuddy_App 
-
+### 🏋️ **Fitness Buddy App**
+🔗 **Live:** https://resonant-melomakarona-ed90b4.netlify.app/  
+💻 **GitHub:** https://github.com/shubhamDivyan/FitnessBuddy_App  
 ---
 
 ## 📈 GitHub Stats
