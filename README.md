@@ -47,15 +47,15 @@
 🐍 **Snake Game**  
 🔗 **Live:** https://snake-game-neon-rho.vercel.app/  
 💻 **GitHub:** https://github.com/shubhamDivyan/snake-Game  
-
+---
 🍽️ **Food Recipe App**  
 🔗 **Live:** https://recipe-app-mu-woad.vercel.app/  
 💻 **GitHub:** https://github.com/shubhamDivyan/Recipe-app-  
-
+---
 🏋️ **Fitness Buddy App**  
 🔗 **Live:** https://resonant-melomakarona-ed90b4.netlify.app/  
 💻 **GitHub:** https://github.com/shubhamDivyan/FitnessBuddy_App  
-
+---
 
 ## 📈 GitHub Stats
 
