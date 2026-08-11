@@ -44,15 +44,15 @@
 
 ## 🚀 Projects
 
-🐍 **Snake Game**  
-🔗 **Live:** https://snake-game-neon-rho.vercel.app/  
-💻 **GitHub:** https://github.com/shubhamDivyan/snake-Game  
+ **User Management System**  
+🔗 **Live:** https://snake-game-neon-rho.vercel.app/](https://user-management-portal-t-git-33c9d1-shubham-divyanshus-projects.vercel.app/  
+💻 **GitHub:** https://github.com/shubhamDivyan/User-Management-Portal  
 ---
 🍽️ **Food Recipe App**  
 🔗 **Live:** https://recipe-app-mu-woad.vercel.app/  
 💻 **GitHub:** https://github.com/shubhamDivyan/Recipe-app-  
 ---
-🏋️ **Fitness Buddy App**  
+ **Fitness Buddy App**  
 🔗 **Live:** https://resonant-melomakarona-ed90b4.netlify.app/  
 💻 **GitHub:** https://github.com/shubhamDivyan/FitnessBuddy_App  
 ---
