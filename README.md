@@ -44,6 +44,9 @@
 
 ## 🚀 Projects
 
+ **Authentication-System**  
+💻 **GitHub:** https://github.com/shubhamDivyan/Authentication-System
+
  **User Management System**  
 🔗 **Live:** https://snake-game-neon-rho.vercel.app/](https://user-management-portal-t-git-33c9d1-shubham-divyanshus-projects.vercel.app/  
 💻 **GitHub:** https://github.com/shubhamDivyan/User-Management-Portal  
